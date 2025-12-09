@@ -14,8 +14,6 @@ This application demonstrates a banking system built with PHP, MySQL, and modern
   - Session management with timeouts
 
 - **Account Security**
-  - Device fingerprinting
-  - Location-based access control
   - Secure session handling
 
 - **Banking Operations**
