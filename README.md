@@ -72,7 +72,6 @@ Edit the following files to match your environment:
 ## Security Features
 
 - **Multi-Factor Authentication**: Requires both password and OTP for login
-- **Device Fingerprinting**: Tracks and verifies devices
 - **Location Verification**: Checks login locations against known locations
 - **Session Security**: Implements idle and absolute session timeouts
 - **Input Validation**: All user inputs are strictly validated
@@ -87,20 +86,3 @@ Edit the following files to match your environment:
 4. Set up a transaction password
 5. Start using the banking features
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- PHPMailer for email functionality
-- Tailwind CSS for styling
-- Various PHP security best practices
